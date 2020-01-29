@@ -1,0 +1,25 @@
+.navbar {height: 20px; padding-top: 6px;}
+
+.tleft {float: left; text-align: center; padding: 14px;}
+
+.tright {float: right; text-align: center; padding: 14px;}
+
+.logo {text-align: center; padding-top: 200px; display: block;}
+
+img {width: 300px;}
+
+.bottom {position: fixed; bottom: 0; width: 100%;}
+
+.bleft {float: left; text-align: center; padding: 14px;}
+
+.bright {float: right; text-align: center; padding: 14px;}
+
+ul {list-style-type: none; margin: 0; padding: 0;}
+
+form.search {text-align: center;}
+
+button {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+  }
